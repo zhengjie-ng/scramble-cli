@@ -8,6 +8,7 @@ const { scrambleWord, isCorrect } = require("./scramble");
 
 async function main() {
   // TODO: Welcome the player & run the game loop 🕹️
+  console.log('Hello, welcome to the game.')
 }
 
 main();
